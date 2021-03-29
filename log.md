@@ -4,6 +4,7 @@
 Log of Round 1 of #100DaysOfCode - 2021
 
 R1D1
+
 March 29. Monday
 Today's Progress: [ Example: Spent time fixing CSS and figuring out how canvas works. ]
 
