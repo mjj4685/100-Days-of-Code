@@ -1,6 +1,4 @@
-#100-days-mj-log
-
-Log of Round 1 of #100DaysOfCode - 2021
+# Log of Round 1 of #100DaysOfCode - 2021
 ____________________________________________________
 
 R1D1
