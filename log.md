@@ -9,7 +9,7 @@ March 29. Monday
 
 Project: Freecodecamp.org / Javascript Algorithms and Data Structures Certification (300 hours)
 
-Practice: Codewars.com 
+Practice: Codewars.com README.md
 
 Today's Progress: Started learning the fundamentals of Javascript. Attempted "is a prime number?" code kata ruby, failed. 
 Attempted "Jaden Casing Strings" code kata ruby, and was successful!
