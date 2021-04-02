@@ -43,9 +43,11 @@ R1D3
 April 01. Thursday
 
 Project: Freecodecamp.org // Javascript Algorithms and Data Structures Certification (300 hours)
-Work: 
+
+Work:
 
 Practice: Codeacademy.com // Learn the Basics of Blockchain with Python - Build a Mini Blockchain
+
 Work:
 
 Practice: Codewars.com 
