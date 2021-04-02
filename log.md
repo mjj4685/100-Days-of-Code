@@ -37,5 +37,28 @@ Attempted some ruby code kata, and was successful!
 
 Thoughts: Still a learning curve, but feeling more confident in applying the skills I've learned thus far. Stayed up late, a bit tired. 
 
+---------------------------------------------
+R1D3
+
+April 01. Thursday
+
+Project: Freecodecamp.org // Javascript Algorithms and Data Structures Certification (300 hours)
+Work: 
+
+Practice: Codeacademy.com // Learn the Basics of Blockchain with Python - Build a Mini Blockchain
+Work:
+
+Practice: Codewars.com 
+
+Work:  <li wfd-id="71"><a href="">Shortest Word</a> - 6 kyu</li>
+
+   <li wfd-id="71"><a href="https://github.com/mjj4685/Codewars/blob/0a366c3990f2c5a1be011ef66088eb68e34926fe/Friend%20or%20Foe">Friend or Foe?</a> - 7 kyu</li>
+   
+Today's Progress: Continued learning the fundamentals of Javascript, and more katas in codewars. Started learning the basics of blockchain in python. 
+
+Thoughts: I really like Python as a language, and think I'll look into Python programming and explore more blockchain projects. I love spending time in codewars. It's fun solving puzzles/mini challenges. 
+
+
+
 
 
